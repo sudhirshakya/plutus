@@ -1,0 +1,7 @@
+id, createdat, updatedat, code, deleted, name, parent_id
+"1001","1000","1000","H","false","Health and Beauty",null
+"1002","1000","1000","E","false","Electronic Devices",null
+"1003","1000","1000","W","false","Women's Fashion",null
+"1004","1000","1000","D","true","Deleted Category",null
+"1011","1000","1000","W.P","false","Pants","1003"
+"1012","1000","1000","W.S","false","Skirts","1003"
